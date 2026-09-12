@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, 我是姚小姚
 
-<!--
-**yaoxinyan55-ai/yaoxinyan55-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI 产品经理 | 专注 Agent 架构 & 记忆系统设计
 
-Here are some ideas to get you started:
+## 🚀 AI助手
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 项目 | 介绍 |
+|------|------|
+| [xiaohongshugaixie](https://github.com/yaoxinyan55-ai/xiaohongshugaixie) | 基于 AI 的小红书文案改写工具 |
+| [life-voyage](https://github.com/yaoxinyan55-ai/life-voyage) | 人生旅程记录 |
+| [claude-skills](https://github.com/yaoxinyan55-ai/claude-skills) | 220+ Claude Code skills & agent plugins |
+## 🚀 工具平台
+| 项目 | 介绍 |
+|------|------|
+| [Geo-targeting-promotion-platform](https://github.com/yaoxinyan55-ai/Geo-targeting-promotion-platform) | AI提名官 - GEO自动化平台 |

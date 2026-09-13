@@ -17,4 +17,4 @@
 ## 🎮 娱乐
 | 项目 | 介绍 |
 |------|------|
-| [造物游戏岛](https://game-island-hazel.vercel.app/) | 面向大众的 AI 小游戏创作平台，输入想法即可生成并试玩小游戏 |
+| [造物游戏岛](https://github.com/yaoxinyan55-ai/game-island) | 面向大众的 AI 小游戏创作平台，输入想法即可生成并试玩小游戏 |

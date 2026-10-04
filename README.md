@@ -47,10 +47,15 @@
 我在公众号持续输出AI产品方向的观察与分析：
 
 当AI学会"主动上班"：拆解Dots和Grok Bot背后的产品逻辑（https://mp.weixin.qq.com/s/llsukliiKbc0g-pzsJgH5w）
+
 Jev之后，AI PM怎么评估下一个刷屏的模型？（https://mp.weixin.qq.com/s/OE_-HT7Y_MJzby60wJd2AQ）
+
 当大厂与极客都在抢"技能"：拆解Agent Skills的现在、方法与未来（https://mp.weixin.qq.com/s/DWi3Mw3xRMWqRkQlYZaF9Q）
+
 从性能超越到生态卡位——解读美团LongCat-2601的"江湖地位"
+
 别再手动加班了！多模态AI，让你的内容团队快进10倍！
+
 AI赋能下的5W1H升级：从人工分析到智能洞察
 
 ---

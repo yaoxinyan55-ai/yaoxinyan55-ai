@@ -9,8 +9,11 @@
 [![点击启动 xinyan.os](https://raw.githubusercontent.com/yaoxinyan55-ai/yaoxinyan55-ai/main/assets/terminal-launch.svg)](https://github.com/yaoxinyan55-ai)
 
 I moved from interactive media art into AI product management.
+
 I build Agent products, and I build the tools myself too.
+
 Art is not the destination for me.
+
 It is the lens I use to understand users and make better product choices.
 
 ---

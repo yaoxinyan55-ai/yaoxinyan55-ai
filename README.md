@@ -8,11 +8,10 @@
 
 [![点击启动 xinyan.os](https://raw.githubusercontent.com/yaoxinyan55-ai/yaoxinyan55-ai/main/assets/terminal-launch.svg)](https://github.com/yaoxinyan55-ai)
 
-- 🎯 AI产品经理，聚焦 **AI Agent / Personal Agent** 方向
-- 🎓 澳门科技大学 · 互动媒体艺术硕士
-- 💼 曾在中文在线负责AI提效产品，推动多条业务线AI能力从0到1落地
-- ✍️ 运营公众号，输出AI产品观察与行业分析
-- 🔍 当前关注：Agent架构设计、记忆系统、Harness工程、AI产品评估方法论
+I moved from interactive media art into AI product management.
+I build Agent products, and I build the tools myself too.
+Art is not the destination for me.
+It is the lens I use to understand users and make better product choices.
 
 ---
 

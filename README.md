@@ -6,6 +6,8 @@
 
 ### 🧭 关于我
 
+[![点击启动 xinyan.os](https://raw.githubusercontent.com/yaoxinyan55-ai/yaoxinyan55-ai/main/assets/terminal-launch.svg)](https://github.com/yaoxinyan55-ai)
+
 - 🎯 AI产品经理，聚焦 **AI Agent / Personal Agent** 方向
 - 🎓 澳门科技大学 · 互动媒体艺术硕士
 - 💼 曾在中文在线负责AI提效产品，推动多条业务线AI能力从0到1落地

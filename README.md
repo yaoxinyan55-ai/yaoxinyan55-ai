@@ -1,4 +1,4 @@
-# Hi 👋 我是姚欣妍
+# Hi 👋 Xinyan
 
 **AI Product Manager** ｜ 专注 Agent 架构与记忆系统设计 ｜ 互动媒体艺术硕士
 
